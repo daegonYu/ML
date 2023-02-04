@@ -1,0 +1,2 @@
+거리와 랭킹의 dot 연산하는 이유
+sklearn의 cosine_distance의 행렬 형태 변환 이유
